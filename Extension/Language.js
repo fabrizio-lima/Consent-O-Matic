@@ -10,14 +10,14 @@ const translations = {
         "en": "Your Choice - Applied Everywhere",
         "da": "Dit valg - Anvendt overalt",
         "de": "Ihre Wahl - Überall angewendet",
-        "pt": "Sua Escolha - Aplicadada em todos os lugares",
+        "pt": "A sua escolha - Aplicada em todo o lado",
         "fr": "Votre choix - Appliqué Partout"
     },
     "YOUR_CHOICE": {
         "en": "Your Choice",
         "da": "Dit valg",
         "de": "Ihre Wahl",
-        "pt": "Sua Escolha",
+        "pt": "A Sua Escolha",
         "fr": "Votre choix"
     },
     "RULE_LIST": {
@@ -45,6 +45,7 @@ const translations = {
         "en": "How to display popups while they are being filled out",
         "da": "Hvordan popups skal vises imens de udfyldes",
         "de": "Wie man Popups anzeigt, während sie ausgefüllt werden",
+        "pt": "Como exibir pop-ups enquanto estão a ser preenchidos",
          "fr": "Comment afficher les popups pendant qu'ils sont entrain d'être remplis"
     },
     "HIDE_OR_PIP_HIDE_TITLE": {
@@ -58,6 +59,7 @@ const translations = {
         "en": "Hide the popup entirely while answering it",
         "da": "Skjul popup'en fuldstændigt imens den besvares",
         "de": "Verbirgt das popup, während es beantwortet wird",
+        "pt": "Ocultar completamente o popup durante a resposta",
         "fr": "Cacher complètement la popup pendant la réponse"
     },
     "HIDE_OR_PIP_PIP_TITLE": {
@@ -92,14 +94,14 @@ const translations = {
         "en": "Configure what categories of tracking you would like to allow. Consent-O-Matic then fills out consent popups as best as possible based on your preferences. All tracking is rejected by default.",
         "da": "Konfigurer hvilke tracking-kategorier du gerne vil tillade. Så vil Consent-O-Matic udfylde samtykke-popups så godt den kan baseret på dine valg. Som standard bliver alt tracking afvist.",
         "de": "Legen Sie fest, welche Kategorien von Tracking Sie zulassen möchten. Consent-O-Matic füllt dann, basierend auf Ihren Voreinstellungen, die Zustimmungs-Popups so gut wie möglich aus. Standardmäßig wird jegliches Tracking abgelehnt.",
-        "pt": "Configure quais categorias de rastreamento você gostaria de permitir. O Consent-O-Matic preenche os pop-ups de consentimento da melhor forma possível com base em suas preferências. Todos os rastreamentos são rejeitados por padrão.",
+        "pt": "Configure quais as categorias de rastreamento que gostaria de permitir. O Consent-O-Matic preenche os pop-ups de consentimento da melhor forma possível com base nas suas preferências. Todos os rastreamentos são rejeitados por padrão.",
         "fr": "Configurez les catégories de suivi que vous souhaitez autoriser. Consent-O-Matic remplit ensuite les popups de consentement de la meilleure façon possible en fonction de vos préférences. Tout suivi est rejeté par défaut."
     },
     "RULES_DESCRIPTION": {
         "en": "Consent-O-Matic comes with a set of rules that tell it how to understand each kind of GDPR consent popup. You can add more sources of rules here - or even create your own list and share it with others!",
         "da": "Sammen med Consent-O-Matic følger et sæt af regler der beskriver hvordan hver enkelt slags GDPR-samtykke-popup skal behandles. Du kan tilføje flere regel-kilder her - eller oprette din egen liste og dele den med andre!",
         "de": "Consent-O-Matic wird mit einer Reihe von Regeln geliefert, die ihm sagen, wie es jede Art von GDPR-Einwilligungs-Popup verstehen soll. Sie können hier weitere Quellen für Regeln hinzufügen - oder sogar Ihre eigene Liste erstellen und sie mit anderen teilen!",
-        "pt": "O Consent-O-Matic vem com um conjunto de regras de como entender cada tipo de pop-up de consentimento do GDPR. Você pode adicionar mais regras aqui - ou até mesmo criar sua própria lista e compartilhá-la com outras pessoas!",
+        "pt": "O Consent-O-Matic vem com um conjunto de regras de como entender cada tipo de pop-up de consentimento do GDPR. Pode adicionar mais regras aqui - ou até criar a sua própria lista e partilhá-la com outras pessoas!",
         "fr": "Consent-O-Matic est livré avec un ensemble de règles qui lui indiquent comment comprendre chaque type de popup de consentement GDPR. Vous pouvez ajouter plus de sources de règles ici - ou même créer votre propre liste et la partager avec d'autres!"
     },
     "ADD_LIST": {
@@ -113,7 +115,7 @@ const translations = {
         "en": "All the rule lists are updated automatically every 22-48 hours or you can",
         "da": "Alle listerne med regler opdateres automatisk engang hver 22-48 time, eller du kan",
         "de": "Alle Regellisten werden automatisch alle 22 bis 48 Stunden aktualisiert oder Sie können",
-        "pt": "Todas as listas de regras são atualizadas automaticamente a cada 22-48 horas ou você pode",
+        "pt": "Todas as listas de regras são atualizadas automaticamente a cada 22-48 horas ou pode",
         "fr": "Toutes les listes de règles sont mises à jour automatiquement toutes les 22-48 heures ou vous pouvez"
     },
     "UPDATE_RULES_NOW": {
@@ -134,7 +136,7 @@ const translations = {
         "en": "As an alternative to writing JSON rules by hand it is also possible to create rules using this drag-n-drop editor:",
         "da": "Som alternativ til at skrive JSON-reglerne i hånden, er det også muligt at lave regler med denne drag-n-drop editor:",
         "de": "Statt JSON-Regeln manuell zu schreiben, können Sie alternativ Regeln mithilfe des Drag-and-drop-Editors erstellen:",
-        "pt": "Como alternativa a escrever regras JSON manualmente, também é possível criá-las usando este editor de arrastar e soltar:",
+        "pt": "Como alternativa a escrever regras JSON manualmente, também é possível criá-las utilizando este editor de arrastar e largar:",
         "fr": "En tant qu'alternative à la rédaction manuelle de règles JSON, il est également possible de créer des règles à l'aide de cet éditeur de glisser-déposer :"
     },
     "OPEN_RULE_GENERATOR": {
@@ -155,21 +157,21 @@ const translations = {
         "en": "Here you can see how many times a popup has been filled out and just how many clicks Consent-O-Matic has saved you.",
         "da": "Her kan du se hvor mange gange der er blevet udfyldt en popup for dig, og hvor mange klik Consent-O-Matic har sparet dig.",
         "de": "Hier können Sie sehen, wie häufig ein Popup ausgefüllt wurde und wie viele Klicks dank Consent-O-Matic gespart wurden.",
-        "pt": "Aqui você pode ver quantas vezes um pop-up foi preenchido e quantos cliques o Consent-O-Matic economizou para você.",
+        "pt": "Aqui pode ver quantas vezes um pop-up foi preenchido e quantos cliques o Consent-O-Matic lhe poupou.",
         "fr": "Ici, vous pouvez voir combien de fois un popup a été remplie et combien de clics Consent-O-Matic vous a économisés."
     },
     "CLICKS_SAVED": {
         "en": "clicks saved",
         "da": "klik sparet",
         "de": "gesparte Klicks",
-        "pt": "cliques economizados",
+        "pt": "cliques poupados",
         "fr": "clics économisés"
     },
     "CLICK_DELAY_DESCRIPTION": {
         "en": "Wait a short time between performing each action or mouse gesture",
         "da": "Vent en kort periode i mellem udførslen af hver handling eller muse gesture",
         "de": "Eine kurze Zeit zwischen den einzelnen Aktionen oder Mausgesten warten",
-        "pt": "Aguarde um pouco entre a execução de cada ação ou movimento do mouse",
+        "pt": "Aguarde um pouco entre a execução de cada ação ou movimento do rato",
         "fr": "Attendez un court laps de temps entre chaque action ou geste de la souris"
     },
     "SKIP_SUBMIT_DESCRIPTION": {
@@ -183,7 +185,7 @@ const translations = {
         "en": "Visual feedback while matching consent choices",
         "da": "Visuel feedback mens samtykkevalg matches",
         "de": "Visuelles Feedback beim Abgleich von Einwilligungsentscheidungen",
-        "pt": "Feedback visual ao combinar opções de consentimento",
+        "pt": "Resposta visual durante a correspondência das escolhas de consentimento",
         "fr": "Retour visuel pendant la correspondance des choix de consentement"
     },
     "DEBUG_CLICKS_DESCRIPTION": {
