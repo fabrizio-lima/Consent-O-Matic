@@ -250,14 +250,14 @@ const translations = {
         "en": "Performance and Analytics",
         "da": "Ydelse og analyse",
         "de": "Leistung und Analyse",
-        "pt": "Desempenho e Analytics",
+        "pt": "Desempenho e Análises",
         "fr": "Performance et analyses"
     },
     "PERFORMANCE_DESCRIPTION": {
         "en": "The collection of information, and combination with previously collected information, to measure, understand, and report, on your usage of the services. This allows websites to count visits and traffic sources so they can measure and improve the performance of the site. It helps them know which pages are the most and least popular, see how visitors move around the site, and where visitors come from.",
         "da": "Indsamling af oplysninger og kombination med tidligere indsamlede oplysninger, til at måle, forstå og rapporterer på din brug af tjenesterne. Dette gør det muligt for websteder at tælle besøg og trafikkilder, så de kan måle og forbedre ydeevnen på webstedet. Det hjælper dem med at vide, hvilke sider der er mest og mindst populære, se hvordan besøgende bevæger sig rundt på webstedet, og hvor besøgende kommer fra.",
         "de": "Die Sammlung von Informationen und die Kombination mit zuvor gesammelten Informationen, um Ihre Nutzung der Dienste zu messen, zu verstehen und darüber zu berichten. Auf diese Weise können Websites Besuche und Quellen zählen, damit sie die Leistung der Website messen und verbessern können. Auf diese Weise erfahren sie, welche Seiten am beliebtesten und am unbeliebtesten sind, wie sich die Besucher auf der Website bewegen und woher sie kommen.",
-        "pt": "Coleta de informações e combinação com informações coletadas anteriormente para medir, entender e relatar o seu uso dos serviços. Isso permite que os sites contem visitas e origens de tráfego para que possam medir e melhorar o desempenho do site. Isso os ajuda a saber quais páginas são as mais e menos populares, ver como os visitantes navegam pelo site e de onde vêm os visitantes.",
+        "pt": "Recolha de informações e combinação com informações previamente recolhidas, para medir, compreender e relatar a sua utilização dos serviços. Isto permite que os websites contem as visitas e as fontes de tráfego para que possam medir e melhorar o desempenho do site. Isto ajuda-os a saber quais as páginas mais populares e menos populares, ver como os visitantes navegam no site e de onde vêm os visitantes.",
         "fr": "Collecte d'informations et combinaison avec des informations précédemment collectées, pour mesurer, comprendre et rapporter votre utilisation des services. Cela permet aux sites web de compter les visites et les sources de trafic afin qu'ils puissent mesurer et améliorer la performance du site. Cela les aide à savoir quelles pages sont les plus populaires et les moins populaires, à voir comment les visiteurs se déplacent sur le site et d'où viennent les visiteurs."
     },
     "CONTENT_NAME": {
@@ -271,7 +271,7 @@ const translations = {
         "en": "Collection of information, and combination with previously collected information, to select and deliver content for you, and to measure the delivery and effectiveness of such content. This includes using previously collected information about your interests to select content, processing data about what <b>content</b> was shown, how often or how long it was shown, when and where it was shown, and whether you took any action related to the content, including for example clicking on content. The data will be used to personalise content on the website itself, but also in other contexts such as other websites, apps, browsers, and devices.",
         "da": "Indsamling af oplysninger og kombination med tidligere indsamlede oplysninger, for at vælge og levere indhold til dig og for at måle levering og effektivitet af sådant indhold. Dette inkluderer tidligere indsamlet information om dine interesser for at vælge indhold, behandle data om, hvad <b>indhold</b> der blev vist, hvor ofte eller hvor længe det blev vist, hvornår og hvor det blev vist, og om du tog nogen handling relateret til indholdet, herunder for eksempel at klikke på indhold. Dataene vil blive brugt til at personliggøre indhold på selve hjemmesiden, men også i andre sammenhænge som andre hjemmesider, apps, browsere og enheder.",
         "de": "Sammlung von Informationen und Kombination mit zuvor gesammelten Informationen, um Inhalte für Sie auszuwählen und bereitzustellen und um die Bereitstellung und Effektivität dieser Inhalte zu messen. Dies beinhaltet die Verwendung von zuvor gesammelten Informationen über Ihre Interessen zur Auswahl von Inhalten, der Verarbeitung von Daten darüber, welche <b>Inhalte</b> gezeigt wurden, wie häufig oder wie lange diese gezeigt wurden, wann und wo sie gezeigt wurden und ob Sie irgendeine Aktion im Zusammenhang mit den Inhalten durchgeführt haben, z. B. das Anklicken von Inhalten. Die Daten werden dazu verwendet, Inhalte auf der Website selbst, aber auch in anderen Kontexten wie anderen Websites, Apps, Browsern und Geräten zu personalisieren.",
-        "pt": "Coleta de informações e combinação com informações coletadas anteriormente para selecionar e fornecer conteúdo para você e para medir a entrega e a eficácia de tal conteúdo. Isso inclui o uso de informações coletadas anteriormente sobre seus interesses para selecionar conteúdo, processar dados sobre qual <b>conteúdo</b> foi exibido, com que frequência ou por quanto tempo foi exibido, quando e onde foi exibido e se você realizou alguma ação relacionados ao conteúdo, incluindo, por exemplo, clicar no conteúdo. Os dados serão usados para personalizar o conteúdo do próprio site, mas também em outros contextos, como outros sites, aplicativos, navegadores e dispositivos.",
+        "pt": "Recolha de informações e combinação com informações previamente recolhidas a fim de selecionar e fornecer conteúdo para si, bem como medir a entrega e a eficácia desse conteúdo. Isto inclui a utilização de informações previamente recolhidas sobre os seus interesses para selecionar conteúdo, o tratamento de dados sobre o conteúdo que foi exibido, com que frequência ou durante quanto tempo foi exibido, quando e onde foi exibido e se tomou alguma ação relacionada com o conteúdo, como clicar no conteúdo, por exemplo. Os dados serão utilizados para personalizar o conteúdo no próprio site, mas também noutros contextos, como outros sites, aplicações, navegadores e dispositivos.",
         "fr": "Collecte d'informations et combinaison avec des informations collectées précédemment, afin de sélectionner et de livrer du contenu pour vous, ainsi que de mesurer la livraison et l'efficacité de ce contenu. Cela inclut l'utilisation d'informations précédemment collectées sur vos centres d'intérêt pour sélectionner du contenu, le traitement des données sur le contenu qui a été affiché, à quelle fréquence ou pendant combien de temps il a été affiché, quand et où il a été affiché, et si vous avez pris des mesures liées au contenu, telles que cliquer sur le contenu, par exemple. Les données seront utilisées pour personnaliser le contenu sur le site web lui-même, mais également dans d'autres contextes tels que d'autres sites web, applications, navigateurs et appareils."
     },
     "AD_NAME": {
@@ -313,14 +313,14 @@ const translations = {
         "en": "Let us know!",
         "da": "Fortæl os!",
         "de": "Lassen Sie es uns wissen!",
-        "pt": "Nos informe!",
+        "pt": "Informe-nos!",
         "fr": "Faites-le nous savoir !"
     },
     "KEEP_RUNNING": {
         "en": "Keep running on this site?",
         "da": "Fortsæt med at køre på denne side?",
         "de": "Weiter auf dieser Website ausführen?",
-        "pt": "Continuar executando neste site?",
+        "pt": "Continuar a execução neste site?",
         "fr": "Continuer l'exécution sur ce site ?"
     },
     "MORE_ADDON_SETTINGS": {
